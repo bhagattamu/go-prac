@@ -25,3 +25,4 @@ $ go help
 
 - Go has a built-in test suite. `Test` can measure performance of your code
 - `Get` is for installing third-party packages
+- `fmt` format your code
